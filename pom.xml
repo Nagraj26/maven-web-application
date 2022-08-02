@@ -98,17 +98,17 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.207.254.58:9980/nagrajpujari/repository/walmart-qa-release/</url>
+	      <url>http://65.2.153.225:9980/nagrajpujari/repository/walmart-qa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.207.254.58:9980/nagrajpujari/repository/walmart-qa-snapshot/</url>
+	      <url>http://65.2.153.225:9980/nagrajpujari/repository/walmart-qa-snapshot/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>
 	
+	</distributionManagement>
 	<build>
 		<finalName>maven-web-application</finalName>
 		
